@@ -36,4 +36,8 @@ Create function to move the files: <br/>
 <br />
 Added command line interface to choose what directory the files you want to organise are in: <br/>
 <img src="https://i.imgur.com/LCUzZOz.png" height="80%" width="80%" alt="File Organiser Steps"/>
+<br />
+<br />
+To run, download script and paste this line in powershell, replacting appropiate placeholders: <br/>
+<img src="https://i.imgur.com/eoyLOW5.png" height="80%" width="80%" alt="File Organiser Steps"/>
 </p>

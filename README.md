@@ -1,7 +1,7 @@
 <h1>Downloads File Organiser #003</h1>
 
 <h2>Description</h2>
-This automatically sorts all your downloaded files into folders based on their file types.
+This automatically sorts all your files within a chosen directory into folders based on their file types.
 <br />
 
 

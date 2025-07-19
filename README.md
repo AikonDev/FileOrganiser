@@ -38,7 +38,7 @@ Added command line interface to choose what directory the files you want to orga
 <img src="https://i.imgur.com/LCUzZOz.png" height="80%" width="80%" alt="File Organiser Steps"/>
 <br />
 <br />
-To run, download script and paste this line in powershell, replacting appropriate placeholders: <br/>
+To run, download script and paste this line in powershell, replacing appropriate placeholders: <br/>
 EXAMPLE: & C:/Users/NAME/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/NAME/Documents/Python Projects/File Organiser/Source Code/File Organiser Script.py" "C:/Users/NAME/Downloads"
 <img src="https://i.imgur.com/eoyLOW5.png" height="80%" width="80%" alt="File Organiser Steps"/>
 </p>

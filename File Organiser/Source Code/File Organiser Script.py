@@ -22,7 +22,7 @@ def clean_folder(folder_path):
                 print(f"Moved: {filename} -> {subfolder_name}/")
 
 if __name__ == "__main__":
-    folder_path = 'C:\\Users\\Ayaan\\Downloads'
+    folder_path = 'C:\\PLACEHOLDER\\PLACEHOLDER\\PLACEHOLDER' # Change the path to whatever folder you want to sort your files within
     if os.path.isdir(folder_path):
         clean_folder(folder_path)
         print("Cleaning complete.")
